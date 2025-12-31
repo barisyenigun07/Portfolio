@@ -3,8 +3,8 @@ import React from 'react'
 const Projects = () => {  
   return (
     <div id='projects' className="mt-20 text-center text-white">
-        <h1 className="text-5xl font-bold">Projects</h1>
-        <div className="grid grid-cols-4 gap-5 mt-5 p-5">
+        <h1 className="text-6xl font-bold">Projects</h1>
+        {/*<div className="grid grid-cols-2 gap-5 mt-5 p-5">
             <div className="flex flex-col justify-center items-center bg-white text-slate-600 p-2 rounded-xl shadow-xl gap-2">
                 <p className="font-bold">Full Stack Todo App</p>
                 <p className="text-start">I developed a simple full stack todo app with Spring Boot + React. This application basically helps users to note their daily tasks.</p>
@@ -39,7 +39,7 @@ const Projects = () => {
                     <a className="text-red-800" href="https://github.com/barisyenigun07/BlogProject" target="_blank">Project Link</a>
                 </div>
             </div>
-        </div>
+        </div>*/}
     </div>
   )
 }
