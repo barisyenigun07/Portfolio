@@ -1,3 +1,5 @@
+"use client";
+
 import React from "react";
 import { motion } from "framer-motion";
 import Aurora from "../react-bits/Aurora";
@@ -18,7 +20,7 @@ const About = () => {
               About Me
             </h2>
             <p className="text-lg text-gray-300 leading-relaxed">
-              I'm a <span className="text-white font-semibold">Software Engineer</span> with hands-on experience in{" "}
+              I&rsquo;m a <span className="text-white font-semibold">Software Engineer</span> with hands-on experience in{" "}
               <span className="text-white font-semibold">test automation</span>,{" "}
               <span className="text-white font-semibold">frontend</span> and{" "}
               <span className="text-white font-semibold">mobile development</span>. <br />
