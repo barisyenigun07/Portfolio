@@ -5,7 +5,7 @@ function Hero() {
   return (
     <section className="w-full h-screen relative flex flex-col justify-center items-center text-center">
         <h1 className="text-5xl md:text-7xl font-bold text-white">
-            Hi! I'm Barış Yenigün.
+            Hi! I&rsquo;m Barış Yenigün.
         </h1>
         <TextType
             text={["Computer Engineer", "Software Developer", "Software Test Engineer"]}
