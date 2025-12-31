@@ -44,10 +44,10 @@ const NavBar = () => {
 
           {/* Socials */}
           <div className="flex space-x-4 ml-4">
-            <a href="https://github.com/barisyenigun" target="_blank" aria-label="GitHub">
+            <a href="https://github.com/barisyenigun07" target="_blank" aria-label="GitHub">
               <FaGithub className="hover:text-gray-400" />
             </a>
-            <a href="https://linkedin.com/in/barisyenigun" target="_blank" aria-label="LinkedIn">
+            <a href="https://www.linkedin.com/in/barisyenigun07" target="_blank" aria-label="LinkedIn">
               <FaLinkedin className="hover:text-gray-400" />
             </a>
           </div>
